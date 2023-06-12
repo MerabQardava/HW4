@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391541095296",
+    "firebase_url": "https://homework4-9c6bd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "homework4-9c6bd",
+    "storage_bucket": "homework4-9c6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391541095296:android:dde44a0ebdd2eafc3c5f65",
+        "android_client_info": {
+          "package_name": "com.example.hw4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391541095296-thborcgv0eseg07m1vtn2hp2scthvsnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFevjPdHWxLcf1lz32D2w1zoFRuz3jLzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391541095296-thborcgv0eseg07m1vtn2hp2scthvsnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
